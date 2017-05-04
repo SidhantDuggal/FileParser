@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FileParser</string>
+    <string name="parse_button_text">Parse File</string>
+    <string name="error_msg">Some error occurred. Please try again.</string>
+</resources>
